@@ -12,4 +12,4 @@
 Результат работы программы представлен в скриншоте:
 
 ![lab-05_Part1_1](https://github.com/Prosto-Fil/tsisa-lab-05/blob/main/screenshots/Part1_1.png)
-![lab-05_Part1_2](https://github.com/Prosto-Fil/tsisa-lab-05/blob/main/screenshots/Part1_1.png)
+![lab-05_Part1_2](https://github.com/Prosto-Fil/tsisa-lab-05/blob/main/screenshots/Part1_2.png)
